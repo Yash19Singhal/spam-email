@@ -42,9 +42,10 @@ make run
 Run on Windows
 
 Double-click:
+ ```bash
 
 run.bat
-
+ ```
 
 
 
