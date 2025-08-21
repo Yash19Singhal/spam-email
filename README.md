@@ -26,27 +26,19 @@ Installation
 
 Install required dependencies:
 
-
 pip install -r requirements.txt
 
+How to Run
 
 Run with Python
 
-
 python app.py
 
-
-
 Run with Makefile
-
-
 make run
-
 
 Run on Windows
 
-
 Double-click:
-
 
 run.bat
