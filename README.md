@@ -19,7 +19,7 @@ Project Structure
 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/spam-email.git
+   git clone https://github.com/Yash19Singhal/spam-email.git
 
    cd spam-email
 
